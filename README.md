@@ -4,4 +4,4 @@ update cada 6 horas
 
 dominios en blacklist
 
-Última actualización: 24/9/2024, 18:00:53
+Última actualización: 25/9/2024, 0:00:58
