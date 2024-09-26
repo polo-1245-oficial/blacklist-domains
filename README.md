@@ -1,7 +1,7 @@
 # Blacklist domains
 
-update cada 6 horas
-
 dominios en blacklist
 
-Última actualización: 26/9/2024, 18:00:59
+## no más actualizaciones cada 6 horas
+resultado del experimento = ip en blacklist 
+maravilloso
